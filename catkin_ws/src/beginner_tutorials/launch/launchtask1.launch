@@ -1,0 +1,8 @@
+<launch>
+	<node name="controller" pkg="beginner_tutorials" type="Controller.py" output="screen"/>
+	<node name="ai" pkg="beginner_tutorials" type="ai.py" output="screen"/>
+	<node name="processor" pkg="beginner_tutorials" type="Processor.py" output="screen"/>
+	<node name="camera" pkg="beginner_tutorials" type="Camera.py" output="screen"/>
+</launch>
+
+

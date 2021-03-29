@@ -7,4 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export PWD='/home/nader/catkin_ws/build'
+export PWD='/home/nader/robotik/catkin_ws/build'

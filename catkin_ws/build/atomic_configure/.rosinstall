@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/nader/catkin_ws/devel/setup.sh
+    local-name: /home/nader/robotik/catkin_ws/devel/setup.sh

@@ -1,0 +1,15 @@
+(cl:defpackage beginner_tutorials-srv
+  (:use )
+  (:export
+   "AISERVICE"
+   "<AISERVICE-REQUEST>"
+   "AISERVICE-REQUEST"
+   "<AISERVICE-RESPONSE>"
+   "AISERVICE-RESPONSE"
+   "ADDTWOINTS"
+   "<ADDTWOINTS-REQUEST>"
+   "ADDTWOINTS-REQUEST"
+   "<ADDTWOINTS-RESPONSE>"
+   "ADDTWOINTS-RESPONSE"
+  ))
+

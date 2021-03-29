@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/nader/catkin_ws/src
+CMAKE_SOURCE_DIR = /home/nader/robotik/catkin_ws/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/nader/catkin_ws/build
+CMAKE_BINARY_DIR = /home/nader/robotik/catkin_ws/build
 
 # Utility rule file for std_msgs_generate_messages_py.
 
@@ -63,10 +63,10 @@ beginner_tutorials/CMakeFiles/std_msgs_generate_messages_py.dir/build: std_msgs_
 .PHONY : beginner_tutorials/CMakeFiles/std_msgs_generate_messages_py.dir/build
 
 beginner_tutorials/CMakeFiles/std_msgs_generate_messages_py.dir/clean:
-	cd /home/nader/catkin_ws/build/beginner_tutorials && $(CMAKE_COMMAND) -P CMakeFiles/std_msgs_generate_messages_py.dir/cmake_clean.cmake
+	cd /home/nader/robotik/catkin_ws/build/beginner_tutorials && $(CMAKE_COMMAND) -P CMakeFiles/std_msgs_generate_messages_py.dir/cmake_clean.cmake
 .PHONY : beginner_tutorials/CMakeFiles/std_msgs_generate_messages_py.dir/clean
 
 beginner_tutorials/CMakeFiles/std_msgs_generate_messages_py.dir/depend:
-	cd /home/nader/catkin_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/nader/catkin_ws/src /home/nader/catkin_ws/src/beginner_tutorials /home/nader/catkin_ws/build /home/nader/catkin_ws/build/beginner_tutorials /home/nader/catkin_ws/build/beginner_tutorials/CMakeFiles/std_msgs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/nader/robotik/catkin_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/nader/robotik/catkin_ws/src /home/nader/robotik/catkin_ws/src/beginner_tutorials /home/nader/robotik/catkin_ws/build /home/nader/robotik/catkin_ws/build/beginner_tutorials /home/nader/robotik/catkin_ws/build/beginner_tutorials/CMakeFiles/std_msgs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : beginner_tutorials/CMakeFiles/std_msgs_generate_messages_py.dir/depend
 
